@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_start"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/n"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.abdelgawad.MillionInJava.StartActivity">
+
+    <Button
+        android:id="@+id/java"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:background="#f8030b"
+        android:padding="30dp"
+        android:shadowDx="3"
+        android:shadowColor="#090"
+        android:shadowRadius="5"
+        android:text="Start million in java programming"
+        android:textColor="#0d00ff"
+        android:textSize="30dp"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Exit"
+        android:id="@+id/exit"
+        android:background="@color/colorAccent"
+        android:layout_marginTop="@dimen/activity_horizontal_margin"/>
+
+</LinearLayout>

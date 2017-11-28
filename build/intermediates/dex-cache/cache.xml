@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_361eaeaddf64797ad723b5561f5029c5c8c9a94c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_e04e51fe36603fe479787043f439a7588efe5df0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_97e25b8d0d9918c7d3c779907e0dd266d21ae583.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_449edb9efe0d0dd0f7b0eb6db413a448119076ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-10.0.1_ad541bc86e6a9f14ed27d2c07a2fd0c2aa934d74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_85419bb6fcbbab045c90bc9685d03a501e062c52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_fd1b8dfe82dfdc247a029a247977aac17f85ad7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_a870e1b287d00543c1e2261bf9b56ca2d11a50ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.0.1_77d6785999c475364664156465396ba147d2cba2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_9f158d08b7e2c3dd717594186cf7194afc4bcb61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.0.1_db96351d24e4ed1f2abe8073eb9d5d7ce4598a7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-10.0.1_428c4483ba706c381127f9a9e758b746a39d9fd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-10.0.1_0b13bbfe52e5a99bf0ca58bad16e0e65fd7b55fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-10.0.1_27d12078a44b2a294e52f4cf364dba692d7f65f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-10.0.1_f643d3ad1e0eda19910bf4b31dce21edb20e11fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_2c5c0b582ae061f9d7af728eb519492527076869.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_a870e1b287d00543c1e2261bf9b56ca2d11a50ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_69a8fc92b20c5f3c160fba3834bf6e91fede3054.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_4b42f28e998d7ca77d31f353b892c30fd114f028.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_716ce8ccbd98ae41e823d06b9282abf6a48ace00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.0.1_d40faed224852b95faae4cefdd3ec611e469d4ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/abdelgawad/courses/androidProjects/android/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_d04bd4f76dd811a4f7667ee8053aed993e746f26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-clearcut-10.0.1_5a03026c34cfb5a578dfff1ef9ae1d374696686f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_fffb1d7d3ae4eeebcc5a085f7c66b40c70657e0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-lite-10.0.1_4cb2cb24f47436e14add98a8d5519dd89c3fc819.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_97e25b8d0d9918c7d3c779907e0dd266d21ae583.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gass-10.0.1_aab89f6a3d68e542de8e6ad08c83443b0e8fd18e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_5c26f21cf25b918bbf97d5dac390aee30556cd26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.0.1_db96351d24e4ed1f2abe8073eb9d5d7ce4598a7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_85419bb6fcbbab045c90bc9685d03a501e062c52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_716ce8ccbd98ae41e823d06b9282abf6a48ace00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_e04e51fe36603fe479787043f439a7588efe5df0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-10.0.1_ad541bc86e6a9f14ed27d2c07a2fd0c2aa934d74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_9f158d08b7e2c3dd717594186cf7194afc4bcb61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.0.1_77d6785999c475364664156465396ba147d2cba2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-10.0.1_0b13bbfe52e5a99bf0ca58bad16e0e65fd7b55fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_449edb9efe0d0dd0f7b0eb6db413a448119076ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_361eaeaddf64797ad723b5561f5029c5c8c9a94c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-10.0.1_428c4483ba706c381127f9a9e758b746a39d9fd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-10.0.1_27d12078a44b2a294e52f4cf364dba692d7f65f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-clearcut-10.0.1_5a03026c34cfb5a578dfff1ef9ae1d374696686f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_69a8fc92b20c5f3c160fba3834bf6e91fede3054.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.0.1_d40faed224852b95faae4cefdd3ec611e469d4ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_2c5c0b582ae061f9d7af728eb519492527076869.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_4b42f28e998d7ca77d31f353b892c30fd114f028.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-10.0.1_f643d3ad1e0eda19910bf4b31dce21edb20e11fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_fd1b8dfe82dfdc247a029a247977aac17f85ad7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-lite-10.0.1_4cb2cb24f47436e14add98a8d5519dd89c3fc819.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/abdelgawad/courses/androidProjects/android/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_d04bd4f76dd811a4f7667ee8053aed993e746f26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_5c26f21cf25b918bbf97d5dac390aee30556cd26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gass-10.0.1_aab89f6a3d68e542de8e6ad08c83443b0e8fd18e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/media/abdelgawad/MEDIA/MillionInJava/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_fffb1d7d3ae4eeebcc5a085f7c66b40c70657e0c.jar" />
+    </item>
+
+</items>
